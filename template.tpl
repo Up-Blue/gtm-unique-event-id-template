@@ -11,6 +11,7 @@ ___INFO___
 {
   "type": "MACRO",
   "id": "cvt_temp_public_id",
+  "categories": ["UTILITY", "ADVERTISING"],
   "version": 1,
   "securityGroups": [],
   "displayName": "Unique Event ID by Up Blue",
