@@ -2,4 +2,6 @@ homepage: "https://github.com/Up-Blue/gtm-unique-event-id-template"
 documentation: "https://github.com/Up-Blue/gtm-unique-event-id-template/blob/main/README.md"
 versions:
   - sha: f4963878dfa46ccef8b2e46c55c5109d3bc4421b
-    changeNotes: Initial release of the Unique Event ID generator for Meta CAPI and GA4 deduplication.
+    changeNotes: Changed LICENSE
+  - sha: 7484c0740d1d86711647e2eccdffd984ffb5738b
+    changeNotes: Initial release.
