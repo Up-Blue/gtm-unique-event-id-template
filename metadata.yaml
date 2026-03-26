@@ -1,7 +1,7 @@
-homepage: "https://github.com/Up-Blue/gtm-unique-event-id-template"
-documentation: "https://github.com/Up-Blue/gtm-unique-event-id-template/blob/main/README.md"
+homepage: "https://www.upblue.pl/"
+documentation: "https://github.com/Up-Blue/gtm-unique-event-id-template#readme"
 versions:
-  - sha: f4963878dfa46ccef8b2e46c55c5109d3bc4421b
-    changeNotes: Changed LICENSE
-  - sha: 7484c0740d1d86711647e2eccdffd984ffb5738b
+  - sha: c959fd6b683d93ded0822d24691686a6095885c0
+    changeNotes: Updated template configuration.
+  - sha: 720c65758f895f554d0bd41cd450486b6354a4cf
     changeNotes: Initial release.
