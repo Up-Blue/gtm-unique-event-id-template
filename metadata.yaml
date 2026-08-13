@@ -1,6 +1,8 @@
 homepage: "https://www.upblue.pl/"
 documentation: "https://github.com/Up-Blue/gtm-unique-event-id-template#readme"
 versions:
+  - sha: 926359378aa9be93d1300178dc7a2fcafca22e3b
+    changeNotes: English description and unmodified Apache 2.0 license.
   - sha: c959fd6b683d93ded0822d24691686a6095885c0
     changeNotes: Updated template configuration.
   - sha: 720c65758f895f554d0bd41cd450486b6354a4cf
