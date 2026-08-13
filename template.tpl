@@ -15,7 +15,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Unique Event ID by Up Blue",
-  "description": "Generuje unikalny identyfikator zdarzenia na potrzeby deduplikacji Meta CAPI i GA4.",
+  "description": "Generates a unique event ID for deduplicating events between Meta Conversions API and GA4. Built by Up Blue (upblue.pl).",
   "containerContexts": [
     "WEB"
   ]
